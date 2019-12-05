@@ -1,0 +1,211 @@
+#theWhole
+{
+	font-family: Times New Roman;
+	background-color: #FFFFFF;
+	background-image: linear-gradient(#FFD,#F6A); 
+	margin: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#text1
+{
+	font-size:80px;
+	color:#A200A2;
+	text-decoration: none;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Times New Roman;
+
+	
+}
+#d1
+{
+	margin:100px;
+	padding:50px;
+	border:100px;
+	height:200px;
+	
+	background-color:#00A066;
+	opacity:0.5;
+
+
+}
+#d1:hover
+{
+	opacity:1;
+}
+.greenHr
+{
+	outline-color: #AA200A;
+	border-width: 10px;
+}
+#d2
+{
+
+	margin: 200px;
+	padding: 20px;
+	border:30px;
+	height: 800px;
+
+	background-color: #AA60FF;
+	opacity: 0.88;
+
+	border-color: #EE4480;
+	border-width: 20px;
+	border-left-style: solid;
+	border-top-color: #66ccff;
+	border-top-style: dashed;
+	border-right-style: solid;
+	border-right-color: #EE4480;
+
+
+	font-style: italic;
+	font-weight: bolder;
+ 	font-size: 20px;
+
+ 	outline-width: 20px;
+ 	outline-style: dashed;
+ 	outline-color: #0685CC;
+
+ 	overflow: auto;
+}
+#d2:hover
+{
+	background-color: #6CF;
+}
+.head
+{
+	text-align: center;
+	text-decoration: line-through;
+	font-size: 60px;
+}
+#image1
+{
+	position: relative;
+	display: block;
+	margin: 0 auto;
+}
+#p1
+{
+	position: fixed;
+	top: 280px;
+	left: 10px;
+
+	display: block; 
+	width: 280px;
+
+	font-size: 50px;
+	color: #CCDD88;
+	font-style: italic;
+	font-weight: bolder;
+
+	text-decoration: none;
+
+	margin: 0px;
+	border-color: green;
+	border-style: dashed;
+	border-width: 10px;
+}
+#p1:hover
+{
+	background-color: white;
+	color :black;
+
+	content: "wjmzbmr";
+}
+#p1:active
+{
+	background-color: blue;
+}
+#db
+{
+	margin: 10px;
+	border:0px;
+	left-padding: 30px;
+	text-align: center;
+	text-shadow: 2px 2px #FFC;
+	line-height: 150px;
+
+	height: 150px;
+	background-image: url("pixiv_3.jpg");
+	background-position: 0% 30%;
+	opacity: 0.8;
+	/*background-image:"pixiv_3.jpg"*/
+
+	border-color: #F6A;
+	border-width: 6px;
+	border-style: inset;
+}
+#ul1
+{
+	position: sticky;
+	width: 100%;
+	top: 0px;
+	list-style-type: none;
+
+	overflow: hidden;
+
+	background-image: linear-gradient(to right,#66CCFF,#FED);
+
+	margin: 0;
+	border:0;
+	padding: 0;
+
+	font-size: 20px;
+	font-family: "楷体";
+	margin:0px 0px;
+}
+#ul1>li
+{
+
+	background-color: blue;
+}
+.l1
+{
+	text-decoration: none;
+	margin-right: 0px;
+
+	background-color: ;
+
+	float: left;
+	/*display: block;*/
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	width: 120px;
+	color: #FA0;          /* 樱色浪漫 F6A*/
+	font-size: 40px;
+	border-right: 2px solid #2FA;
+
+}
+.l1:hover
+{
+	background-color: #FAA;
+	text-shadow: 2px 0px white;
+}
+.l1:active
+{
+	background-color: #AaF;
+
+}
+#bid
+{
+	height: 500px;
+	margin: 0px;
+	border:30px;
+	padding: 50px;
+
+	background-color: red;
+}
+#hh1
+{
+	position: relative;
+	bottom: 0px;
+	left: 460px;
+	color: #0FA;
+	font-family: "Ink Free";
+	font-weight: bold;
+	font-size: 60px;
+	display: inline;
+	color: text-gradient(#FAC,#6CF);
+}
