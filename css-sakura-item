@@ -1,0 +1,15 @@
+/*用css写的一个还比较美观的樱花片div 无技术含量 参数如下*/
+<div class='sakura'>
+  /*text content*/
+</div>
+
+<style type="text/css">
+  div.sakura{
+		position: relative;
+		/*位置参数自行填写    margin-left:  250px;   */
+		/*大小参数自行填写    width: 80px;height: 80px;   */
+		background: linear-gradient(to bottom left,#fac 30%,#ffe);
+		box-shadow: 6px 6px 5px #faa;
+		border-radius: 36px 0 36px 0;
+	}
+</style>
