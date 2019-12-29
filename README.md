@@ -1,2 +1,3 @@
 # lonoceraTheBase
-I am still learning to code...
+the hardest walk leads to the greatest destination.
+the toughest climbs always lead to the best views.
